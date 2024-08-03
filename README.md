@@ -1,4 +1,6 @@
-# Cara Install
+# Laravel Project
+
+### Cara Install
 
 1. composer install
 2. npm install
@@ -10,7 +12,7 @@
 8. php artisan serve
 
 
-# Akun
+### Akun
 
 * Petugas 
     * petugas@app.test
